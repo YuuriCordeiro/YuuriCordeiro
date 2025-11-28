@@ -47,8 +47,8 @@ Sou formado em **UX/UI Design** e atualmente estou expandindo meus conhecimentos
 ---
 
 ## 🌐 Onde me encontrar
-- 📎 **GitHub:** *(adicione seu link)*  
-- 📎 **LinkedIn:** *(opcional)*  
+- 📎 **GitHub:** *https://github.com/YuuriCordeiro*  
+- 📎 **LinkedIn:** *https://www.linkedin.com/in/yuri-cordeiroo/*  
 
 ---
 
