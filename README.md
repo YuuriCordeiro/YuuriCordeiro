@@ -38,6 +38,18 @@ Sou formado em **UX/UI Design** e atualmente estou expandindo meus conhecimentos
 
 ---
 
+## 🎨 Portfólios
+
+### 📁 **Portfólio Profissional (UX/UI)**
+🔗 *adicione o link aqui*  
+Projetos estruturados, estudos de caso, UI/UX completos, pesquisas, wireframes e protótipos.
+
+### 🏔️ **Portfólio Aventureiro / Temático**
+🔗 *adicione o link aqui*  
+Projetos criativos, estéticos e experimentais — explorando tema, identidade visual e narrativa.
+
+---
+
 ## 🌱 Estudos Atuais
 - Cibersegurança  
 - Redes e Linux  
@@ -47,10 +59,11 @@ Sou formado em **UX/UI Design** e atualmente estou expandindo meus conhecimentos
 ---
 
 ## 🌐 Onde me encontrar
-- 📎 **GitHub:** *https://github.com/YuuriCordeiro*  
-- 📎 **LinkedIn:** *https://www.linkedin.com/in/yuri-cordeiroo/*  
+- 📎 **GitHub:** https://github.com/YuuriCordeiro  
+- 📎 **LinkedIn:** https://www.linkedin.com/in/yuri-cordeiroo/  
 
 ---
+
 
 
 
