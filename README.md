@@ -8,6 +8,13 @@ Sou formado em **UX/UI Design** e atualmente estou expandindo meus conhecimentos
 
 ## 🚀 Tecnologias & Ferramentas
 
+### 🎨 UX/UI & Design
+- Figma  
+- Design de interfaces  
+- Prototipação  
+- Wireframes  
+- Arquitetura da informação  
+
 ### 🛡️ Cibersegurança
 - Nmap  
 - Burp Suite  
@@ -62,6 +69,7 @@ Projetos criativos, estéticos e experimentais — explorando tema, identidade v
 - 📎 **LinkedIn:** https://www.linkedin.com/in/yuri-cordeiroo/  
 
 ---
+
 
 
 
