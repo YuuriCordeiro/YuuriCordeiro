@@ -12,8 +12,7 @@ Sou formado em **UX/UI Design** e atualmente estou expandindo meus conhecimentos
 - Figma  
 - Design de interfaces  
 - Prototipação  
-- Wireframes  
-- Arquitetura da informação  
+- Wireframes   
 
 ### 🛡️ Cibersegurança
 - Nmap  
