@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o **Yuri Cordeiro**
+# 👋 Fala, meu povo! Eu sou o **Yuri Cordeiro**
 
 ## UX/UI Designer | Estudando Cibersegurança e Desenvolvimento de Sistemas
 
