@@ -6,7 +6,7 @@ Sou formado em **UX/UI Design** e atualmente estou expandindo meus conhecimentos
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## ⚙️ Tecnologias & Ferramentas
 
 ### 🎨 UX/UI & Design
 - Figma  
