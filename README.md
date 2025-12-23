@@ -44,19 +44,15 @@ Sou formado em **UX/UI Design** e atualmente estou expandindo meus conhecimentos
 
 ---
 
-## 🎨 Portfólios
+## 📁 Portfólio
 
-### 📁 **Portfólio Profissional (UX/UI)**
-🔗 *https://portifolio-yuricordeiro.vercel.app/*  
-Projetos estruturados, estudos de caso, UI/UX completos, pesquisas, wireframes e protótipos.
-
-### 🏔️ **Portfólio Aventureiro / Temático**
-🔗 *https://portifolio-aventureiro.vercel.app/*  
-Projetos criativos, estéticos e experimentais — explorando tema, identidade visual e narrativa.
+### 📝 **Portfólio Profissional (Cybersecurity & Tech)**
+🔗 *https://portifolio-cybersec.vercel.app/*  
+Projetos técnicos, análises de cibersegurança, estudos de caso e demonstração de habilidades práticas em segurança da informação.
 
 ---
 
-## 🌱 Estudos Atuais
+## 📚 Estudos Atuais
 - Cibersegurança  
 - Redes e Linux  
 - Desenvolvimento de Sistemas  
