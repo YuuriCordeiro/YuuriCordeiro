@@ -1,64 +1,77 @@
-# 👋 Fala, meu povo! Eu sou o **Yuri Cordeiro**
+# Yuri Cordeiro
 
-## UX/UI Designer | Estudando Cibersegurança e Desenvolvimento de Sistemas
+**UX/UI Designer | Front-End Júnior | Estudante de Cibersegurança e Desenvolvimento de Sistemas**
 
-Sou formado em **UX/UI Design** e atualmente estou expandindo meus conhecimentos em **Cibersegurança** e **Análise e Desenvolvimento de Sistemas**, unindo criatividade, tecnologia e segurança para construir soluções eficientes, intuitivas e bem estruturadas.
-
----
-
-## ⚙️ Tecnologias & Ferramentas
-
-### 🎨 UX/UI & Design
-- Figma  
-- Design de interfaces  
-- Prototipação  
-- Wireframes   
-
-### 🛡️ Cibersegurança
-- Nmap  
-- Burp Suite  
-- Docker  
-- Reconhecimento de rede  
-- Footprinting  
-
-### 🧰 Ferramentas
-- Git  
-- GitHub  
-- VS Code  
-- Docker  
+Sou formado em **Front-End & UX/UI Design**, com foco na criação de interfaces funcionais, acessíveis e bem estruturadas.  
+Atualmente, estou expandindo meus conhecimentos em **Cibersegurança** e **Análise e Desenvolvimento de Sistemas**, buscando unir **design, desenvolvimento e segurança** na construção de soluções digitais completas.
 
 ---
 
-## 📘 Em Aprendizado / Conhecimento Básico
+## Áreas de Atuação
 
-> Tecnologias que estou estudando ou nas quais possuo nível iniciante:
-
-### 🧑‍💻 Linguagens
-- Python (básico)  
-- JavaScript (básico)
-
-### 🌐 Desenvolvimento
-- HTML  
-- CSS  
-- Node.js (básico)
-
----
-
-## 📁 Portfólio
-
-### 📝 **Portfólio Profissional (Cybersecurity & Tech)**
-🔗 *https://www.yuuricordeiro.com.br/*  
-Projetos técnicos, análises de cibersegurança, estudos de caso e demonstração de habilidades práticas em segurança da informação.
-
----
-
-## 📚 Estudos Atuais
-- Cibersegurança  
-- Redes e Linux  
+- UX/UI Design  
+- Front-End (nível iniciante)  
+- Cibersegurança (estudos e projetos práticos)  
 - Desenvolvimento de Sistemas  
 
 ---
 
+## Tecnologias & Ferramentas
+
+### UX/UI & Design
+| Ferramenta | Atuação |
+|-----------|--------|
+| Figma | Design de interfaces e prototipação |
+| UX Design | Pesquisa, usabilidade e experiência do usuário |
+| UI Design | Layouts, componentes e design systems |
+| Wireframes | Estruturação de interfaces |
+
+### Front-End
+| Tecnologia | Nível |
+|-----------|------|
+| HTML5 | Iniciante |
+| CSS3 | Iniciante |
+| JavaScript | Básico |
+
+### Cibersegurança
+| Ferramenta / Conceito | Aplicação |
+|----------------------|----------|
+| Nmap | Reconhecimento de rede |
+| Burp Suite | Análise de requisições HTTP |
+| Docker | Ambientes isolados |
+| Footprinting | Coleta de informações |
+| Redes | Conceitos e análise básica |
+
+### Ferramentas Gerais
+| Ferramenta | Uso |
+|-----------|-----|
+| Git | Controle de versão |
+| GitHub | Versionamento e portfólio |
+| VS Code | Desenvolvimento |
+| Linux | Ambiente de estudos |
+
+---
+
+## Estudos Atuais
+
+- Cibersegurança e Segurança da Informação  
+- Redes de Computadores e Linux  
+- Desenvolvimento de Sistemas  
+
+---
+
+## Portfólio
+
+**Portfólio Profissional (Cybersecurity & Tech)**  
+🔗 https://www.yuuricordeiro.com.br/
+
+Projetos técnicos, estudos de caso, documentação de laboratórios, análises de segurança e evolução prática em tecnologia.
+
+---
+
+## Objetivo Profissional
+
+Atuar na área de tecnologia, iniciando como **Front-End Júnior, UX/UI Designer ou Analista em formação**, com foco em crescimento contínuo, projetos práticos e aprendizado constante em segurança da informação.
 
 
 
