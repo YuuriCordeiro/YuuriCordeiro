@@ -59,12 +59,6 @@ Projetos técnicos, análises de cibersegurança, estudos de caso e demonstraç�
 
 ---
 
-## 🌐 Onde me encontrar
-- 📎 **GitHub:** https://github.com/YuuriCordeiro  
-- 📎 **LinkedIn:** https://www.linkedin.com/in/yuri-cordeiroo/  
-
----
-
 
 
 
