@@ -50,9 +50,9 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas**, aprofundando conhe
 
 ## Formação Acadêmica
 
-- **Cibersegurança** — Formação concluída  
+- **Cibersegurança**
+- **Front-End & UX/UI Design** 
 - **Análise e Desenvolvimento de Sistemas** — Em andamento  
-- **Front-End & UX/UI Design** — Formação complementar  
 
 ---
 
