@@ -2,9 +2,11 @@
 
 **Analista de Cibersegurança | UX/UI Designer | Estudante de Análise e Desenvolvimento de Sistemas**
 
-Sou **formado em Cibersegurança**, com atuação prática em reconhecimento de redes, análise de serviços e organização de evidências técnicas.  
-Tenho formação complementar em **Front-End & UX/UI Design**, o que me permite unir **segurança, usabilidade e desenvolvimento** na criação de soluções digitais bem estruturadas.  
-Atualmente, curso **Análise e Desenvolvimento de Sistemas**, aprofundando conhecimentos em programação e arquitetura de software.
+Sou formado em **Cibersegurança (Kensei & Vai na Web)**, com atuação prática em **reconhecimento de redes, análise de serviços e organização de evidências técnicas**, aplicando conceitos de segurança da informação em ambientes controlados e projetos práticos.
+
+Possuo formação em **Front-End & UX/UI Design (Origamid)**, o que me permite unir **segurança, usabilidade e desenvolvimento** na criação de soluções digitais bem estruturadas, funcionais e centradas no usuário.
+
+Atualmente, curso **Análise e Desenvolvimento de Sistemas**, aprofundando conhecimentos em **programação, lógica de software e arquitetura de sistemas**.
 
 ---
 
