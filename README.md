@@ -47,7 +47,7 @@ Sou formado em **UX/UI Design** e atualmente estou expandindo meus conhecimentos
 ## 📁 Portfólio
 
 ### 📝 **Portfólio Profissional (Cybersecurity & Tech)**
-🔗 *https://portifolio-cybersec.vercel.app/*  
+🔗 *https://www.yuuricordeiro.com.br/*  
 Projetos técnicos, análises de cibersegurança, estudos de caso e demonstração de habilidades práticas em segurança da informação.
 
 ---
