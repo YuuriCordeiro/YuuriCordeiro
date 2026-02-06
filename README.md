@@ -2,6 +2,8 @@
 
 **Analista de Cibersegurança | UX/UI Designer | Estudante de Análise e Desenvolvimento de Sistemas**
 
+---
+
 <!--
 Sou formado em **Cibersegurança (Kensei & Vai na Web)**, com atuação prática em **reconhecimento de redes, análise de serviços e organização de evidências técnicas**, aplicando conceitos de segurança da informação em ambientes controlados e projetos práticos.
 
