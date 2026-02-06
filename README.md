@@ -1,6 +1,10 @@
 # Yuri Cordeiro
 
-**Analista de Cibersegurança | UX/UI Designer | Estudante de Análise e Desenvolvimento de Sistemas**
+**Portfólio** 
+
+🔗 https://www.yuuricordeiro.com.br/
+
+Projetos técnicos, estudos de caso, documentação de laboratórios, análises de segurança e evolução prática.
 
 ---
 
@@ -71,13 +75,13 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas**, aprofundando conhe
 ---
 
 ## Portfólio
--->
+
 ## Portfólio  
 
 🔗 https://www.yuuricordeiro.com.br/
 
 Projetos técnicos, estudos de caso, documentação de laboratórios, análises de segurança e evolução prática.
-<!--
+
 ---
 
 
