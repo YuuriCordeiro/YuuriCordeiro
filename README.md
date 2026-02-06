@@ -67,20 +67,21 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas**, aprofundando conhe
 - Programação (JavaScript e Python – básico)
 
 ---
--->
-## Portfólio
 
-**Portfólio Profissional (Cybersecurity & Tech)**  
+## Portfólio
+-->
+**Portfólio **  
 🔗 https://www.yuuricordeiro.com.br/
 
 Projetos técnicos, estudos de caso, documentação de laboratórios, análises de segurança e evolução prática.
-
+<!--
 ---
+
 
 ## Objetivo Profissional
 
 Atuar na área de tecnologia com foco em **Cibersegurança**, **Desenvolvimento** e **UX/UI**, contribuindo em ambientes que valorizem segurança, boas práticas e aprendizado contínuo.
-
+-->
 
 
 <!--
