@@ -65,9 +65,9 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas**, aprofundando conhe
 - Redes e Linux  
 - Desenvolvimento de Sistemas  
 - Programação (JavaScript e Python – básico)
--->
----
 
+---
+-->
 ## Portfólio
 
 **Portfólio Profissional (Cybersecurity & Tech)**  
