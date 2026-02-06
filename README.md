@@ -70,7 +70,8 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas**, aprofundando conhe
 
 ## Portfólio
 -->
-# Portfólio  
+## Portfólio  
+
 🔗 https://www.yuuricordeiro.com.br/
 
 Projetos técnicos, estudos de caso, documentação de laboratórios, análises de segurança e evolução prática.
